@@ -1,0 +1,124 @@
+{
+  "iconunsend": {
+    "status": true,
+    "icon": "❤️"
+  },
+  "language": "vi",
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "allowInbox": true,
+  "autoClean": false,
+  "adminOnly": false,
+  "Nopre": false,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "cookie": "",
+  "ACCESSTOKEN": "",
+  "BOTNAME": "mirai bot",
+  "PREFIX": "-",
+  "ADMINBOT": [
+    "100077455430992",
+    "",
+    "100001180529002",
+    "100070815402204",
+    "100083205727767",
+    "535335875"
+  ],
+  "NDH": [
+    ""
+  ],
+  "DATABASE": {
+    "sqlite": {
+      "storage": "data.sqlite"
+    }
+  },
+  "APPSTATEPATH": "appstate/2.json",
+  "NPM_FCA": "fca",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0; dolphin Build/NRD91N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.100 Safari/537.36"
+  },
+  "version": "3.6.0",
+  "bot": {
+    "APIKEY": "LUVMIN"
+  },
+  "daily": {
+    "cooldownTime": 8640000000,
+    "rewardCoin": 2000
+  },
+  "loto": {
+    "maxPlayers": 10,
+    "getDelay": 8
+  },
+  "mine": {
+    "APIKEY": ""
+  },
+  "pokemon": {
+    "APIKEY": ""
+  },
+  "subnautica": {
+    "APIKEY": ""
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c"
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "xidach": {
+    "maxPlayers": 5,
+    "normalWinBonus": 1,
+    "superWinBonus": 2,
+    "epicWinBonus": 4
+  },
+  "adminUpdate": {
+    "autoUnsend": false,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "log": {
+    "enable": true
+  },
+  "start": 0,
+  "key": "admin",
+  "cave": {
+    "cooldownTime": 60000
+  },
+  "rankup": {
+    "autoUnsend": false,
+    "unsendMessageAfter": 5
+  },
+  "@@": {
+    "enable": true
+  },
+  "leave": {
+    "status": false,
+    "number": 0
+  },
+  "sim": {
+    "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+  },
+  "count": {
+    "maxColumn": 10
+  },
+  "weather": {
+    "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+  },
+  "caesar": {
+    "caeserPassword": "266303"
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "keys": "lq trung kiên"
+}
